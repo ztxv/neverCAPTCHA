@@ -1,0 +1,840 @@
+{
+  "tiles": [
+    {
+      "category": "Bicycle",
+      "name": "bicycle-0.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(1).png",
+      "original": "Large/Bicycle/Bicycle (1).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-1.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(10).png",
+      "original": "Large/Bicycle/Bicycle (10).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-2.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(100).png",
+      "original": "Large/Bicycle/Bicycle (100).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-3.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(101).png",
+      "original": "Large/Bicycle/Bicycle (101).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-4.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(102).png",
+      "original": "Large/Bicycle/Bicycle (102).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-5.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(103).png",
+      "original": "Large/Bicycle/Bicycle (103).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-6.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(104).png",
+      "original": "Large/Bicycle/Bicycle (104).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-7.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(105).png",
+      "original": "Large/Bicycle/Bicycle (105).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-8.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(106).png",
+      "original": "Large/Bicycle/Bicycle (106).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-9.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(107).png",
+      "original": "Large/Bicycle/Bicycle (107).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-10.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(108).png",
+      "original": "Large/Bicycle/Bicycle (108).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-11.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(109).png",
+      "original": "Large/Bicycle/Bicycle (109).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-12.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(11).png",
+      "original": "Large/Bicycle/Bicycle (11).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-13.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(110).png",
+      "original": "Large/Bicycle/Bicycle (110).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-14.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(111).png",
+      "original": "Large/Bicycle/Bicycle (111).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-15.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(112).png",
+      "original": "Large/Bicycle/Bicycle (112).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-16.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(113).png",
+      "original": "Large/Bicycle/Bicycle (113).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-17.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(114).png",
+      "original": "Large/Bicycle/Bicycle (114).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-18.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(115).png",
+      "original": "Large/Bicycle/Bicycle (115).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-19.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(116).png",
+      "original": "Large/Bicycle/Bicycle (116).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-20.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(117).png",
+      "original": "Large/Bicycle/Bicycle (117).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-21.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(118).png",
+      "original": "Large/Bicycle/Bicycle (118).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-22.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(119).png",
+      "original": "Large/Bicycle/Bicycle (119).png"
+    },
+    {
+      "category": "Bicycle",
+      "name": "bicycle-23.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Bicycle/Bicycle%20(12).png",
+      "original": "Large/Bicycle/Bicycle (12).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-0.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(1).png",
+      "original": "Large/Hydrant/Hydrant (1).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-1.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(10).png",
+      "original": "Large/Hydrant/Hydrant (10).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-2.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(100).png",
+      "original": "Large/Hydrant/Hydrant (100).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-3.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(101).png",
+      "original": "Large/Hydrant/Hydrant (101).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-4.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(102).png",
+      "original": "Large/Hydrant/Hydrant (102).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-5.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(103).png",
+      "original": "Large/Hydrant/Hydrant (103).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-6.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(104).png",
+      "original": "Large/Hydrant/Hydrant (104).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-7.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(105).png",
+      "original": "Large/Hydrant/Hydrant (105).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-8.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(106).png",
+      "original": "Large/Hydrant/Hydrant (106).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-9.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(107).png",
+      "original": "Large/Hydrant/Hydrant (107).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-10.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(108).png",
+      "original": "Large/Hydrant/Hydrant (108).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-11.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(109).png",
+      "original": "Large/Hydrant/Hydrant (109).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-12.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(11).png",
+      "original": "Large/Hydrant/Hydrant (11).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-13.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(110).png",
+      "original": "Large/Hydrant/Hydrant (110).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-14.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(111).png",
+      "original": "Large/Hydrant/Hydrant (111).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-15.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(112).png",
+      "original": "Large/Hydrant/Hydrant (112).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-16.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(113).png",
+      "original": "Large/Hydrant/Hydrant (113).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-17.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(114).png",
+      "original": "Large/Hydrant/Hydrant (114).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-18.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(115).png",
+      "original": "Large/Hydrant/Hydrant (115).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-19.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(116).png",
+      "original": "Large/Hydrant/Hydrant (116).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-20.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(117).png",
+      "original": "Large/Hydrant/Hydrant (117).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-21.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(118).png",
+      "original": "Large/Hydrant/Hydrant (118).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-22.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(119).png",
+      "original": "Large/Hydrant/Hydrant (119).png"
+    },
+    {
+      "category": "Hydrant",
+      "name": "hydrant-23.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Hydrant/Hydrant%20(12).png",
+      "original": "Large/Hydrant/Hydrant (12).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-0.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(1).png",
+      "original": "Large/Motorcycle/Motorcycle (1).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-1.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(10).png",
+      "original": "Large/Motorcycle/Motorcycle (10).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-2.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(100).png",
+      "original": "Large/Motorcycle/Motorcycle (100).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-3.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(101).png",
+      "original": "Large/Motorcycle/Motorcycle (101).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-4.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(11).png",
+      "original": "Large/Motorcycle/Motorcycle (11).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-5.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(12).png",
+      "original": "Large/Motorcycle/Motorcycle (12).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-6.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(13).png",
+      "original": "Large/Motorcycle/Motorcycle (13).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-7.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(14).png",
+      "original": "Large/Motorcycle/Motorcycle (14).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-8.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(15).png",
+      "original": "Large/Motorcycle/Motorcycle (15).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-9.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(16).png",
+      "original": "Large/Motorcycle/Motorcycle (16).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-10.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(17).png",
+      "original": "Large/Motorcycle/Motorcycle (17).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-11.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(18).png",
+      "original": "Large/Motorcycle/Motorcycle (18).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-12.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(19).png",
+      "original": "Large/Motorcycle/Motorcycle (19).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-13.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(2).png",
+      "original": "Large/Motorcycle/Motorcycle (2).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-14.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(20).png",
+      "original": "Large/Motorcycle/Motorcycle (20).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-15.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(21).png",
+      "original": "Large/Motorcycle/Motorcycle (21).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-16.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(22).png",
+      "original": "Large/Motorcycle/Motorcycle (22).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-17.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(23).png",
+      "original": "Large/Motorcycle/Motorcycle (23).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-18.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(24).png",
+      "original": "Large/Motorcycle/Motorcycle (24).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-19.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(25).png",
+      "original": "Large/Motorcycle/Motorcycle (25).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-20.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(26).png",
+      "original": "Large/Motorcycle/Motorcycle (26).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-21.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(27).png",
+      "original": "Large/Motorcycle/Motorcycle (27).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-22.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(28).png",
+      "original": "Large/Motorcycle/Motorcycle (28).png"
+    },
+    {
+      "category": "Motorcycle",
+      "name": "motorcycle-23.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Motorcycle/Motorcycle%20(29).png",
+      "original": "Large/Motorcycle/Motorcycle (29).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-0.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1).png",
+      "original": "Large/Car/Car (1).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-2.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(100).png",
+      "original": "Large/Car/Car (100).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-3.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1000).png",
+      "original": "Large/Car/Car (1000).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-4.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1001).png",
+      "original": "Large/Car/Car (1001).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-5.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1002).png",
+      "original": "Large/Car/Car (1002).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-6.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1003).png",
+      "original": "Large/Car/Car (1003).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-7.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1004).png",
+      "original": "Large/Car/Car (1004).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-8.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1005).png",
+      "original": "Large/Car/Car (1005).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-9.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1006).png",
+      "original": "Large/Car/Car (1006).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-10.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1007).png",
+      "original": "Large/Car/Car (1007).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-11.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1008).png",
+      "original": "Large/Car/Car (1008).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-12.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1009).png",
+      "original": "Large/Car/Car (1009).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-13.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(101).png",
+      "original": "Large/Car/Car (101).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-14.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1010).png",
+      "original": "Large/Car/Car (1010).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-15.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1011).png",
+      "original": "Large/Car/Car (1011).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-16.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1012).png",
+      "original": "Large/Car/Car (1012).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-17.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1013).png",
+      "original": "Large/Car/Car (1013).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-18.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1014).png",
+      "original": "Large/Car/Car (1014).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-19.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1015).png",
+      "original": "Large/Car/Car (1015).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-20.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1016).png",
+      "original": "Large/Car/Car (1016).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-21.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1017).png",
+      "original": "Large/Car/Car (1017).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-22.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1018).png",
+      "original": "Large/Car/Car (1018).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-23.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(1019).png",
+      "original": "Large/Car/Car (1019).png"
+    },
+    {
+      "category": "Car",
+      "name": "car-24.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Car/Car%20(102).png",
+      "original": "Large/Car/Car (102).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-0.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1).png",
+      "original": "Large/Other/Other (1).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-1.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(10).png",
+      "original": "Large/Other/Other (10).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-2.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(100).png",
+      "original": "Large/Other/Other (100).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-3.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1000).png",
+      "original": "Large/Other/Other (1000).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-4.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1001).png",
+      "original": "Large/Other/Other (1001).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-5.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1002).png",
+      "original": "Large/Other/Other (1002).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-6.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1003).png",
+      "original": "Large/Other/Other (1003).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-7.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1004).png",
+      "original": "Large/Other/Other (1004).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-8.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1005).png",
+      "original": "Large/Other/Other (1005).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-9.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1006).png",
+      "original": "Large/Other/Other (1006).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-10.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1007).png",
+      "original": "Large/Other/Other (1007).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-11.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1008).png",
+      "original": "Large/Other/Other (1008).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-12.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1009).png",
+      "original": "Large/Other/Other (1009).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-13.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(101).png",
+      "original": "Large/Other/Other (101).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-14.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1010).png",
+      "original": "Large/Other/Other (1010).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-15.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1011).png",
+      "original": "Large/Other/Other (1011).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-16.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1012).png",
+      "original": "Large/Other/Other (1012).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-17.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1013).png",
+      "original": "Large/Other/Other (1013).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-18.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1014).png",
+      "original": "Large/Other/Other (1014).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-19.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1015).png",
+      "original": "Large/Other/Other (1015).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-20.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1016).png",
+      "original": "Large/Other/Other (1016).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-21.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1017).png",
+      "original": "Large/Other/Other (1017).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-22.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1018).png",
+      "original": "Large/Other/Other (1018).png"
+    },
+    {
+      "category": "Other",
+      "name": "other-23.png",
+      "url": "https://raw.githubusercontent.com/hbcbh1999/recaptcha-dataset/master/Large/Other/Other%20(1019).png",
+      "original": "Large/Other/Other (1019).png"
+    }
+  ],
+  "scenes": [
+    {
+      "name": "motorcycle-0.png",
+      "keyword": "motorcycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-17-57-00/full_images.png",
+      "original": "dataset/2026-04-25-17-57-00/full_images.png"
+    },
+    {
+      "name": "motorcycle-1.png",
+      "keyword": "motorcycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-18-15-00/full_images.png",
+      "original": "dataset/2026-04-25-18-15-00/full_images.png"
+    },
+    {
+      "name": "motorcycle-2.png",
+      "keyword": "motorcycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-19-35-00/full_images.png",
+      "original": "dataset/2026-04-25-19-35-00/full_images.png"
+    },
+    {
+      "name": "motorcycle-3.png",
+      "keyword": "motorcycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-19-37-00/full_images.png",
+      "original": "dataset/2026-04-25-19-37-00/full_images.png"
+    },
+    {
+      "name": "motorcycle-4.png",
+      "keyword": "motorcycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-19-46-00/full_images.png",
+      "original": "dataset/2026-04-25-19-46-00/full_images.png"
+    },
+    {
+      "name": "motorcycle-5.png",
+      "keyword": "motorcycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-20-24-00/full_images.png",
+      "original": "dataset/2026-04-25-20-24-00/full_images.png"
+    },
+    {
+      "name": "bicycle-0.png",
+      "keyword": "bicycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-17-39-00/full_images.png",
+      "original": "dataset/2026-04-25-17-39-00/full_images.png"
+    },
+    {
+      "name": "bicycle-1.png",
+      "keyword": "bicycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-18-04-00/full_images.png",
+      "original": "dataset/2026-04-25-18-04-00/full_images.png"
+    },
+    {
+      "name": "bicycle-2.png",
+      "keyword": "bicycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-18-09-00/full_images.png",
+      "original": "dataset/2026-04-25-18-09-00/full_images.png"
+    },
+    {
+      "name": "bicycle-3.png",
+      "keyword": "bicycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-19-34-00/full_images.png",
+      "original": "dataset/2026-04-25-19-34-00/full_images.png"
+    },
+    {
+      "name": "bicycle-4.png",
+      "keyword": "bicycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-19-38-00/full_images.png",
+      "original": "dataset/2026-04-25-19-38-00/full_images.png"
+    },
+    {
+      "name": "bicycle-5.png",
+      "keyword": "bicycles",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-19-52-00/full_images.png",
+      "original": "dataset/2026-04-25-19-52-00/full_images.png"
+    },
+    {
+      "name": "traffic-light-0.png",
+      "keyword": "traffic lights",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-18-44-00/full_images.png",
+      "original": "dataset/2026-04-25-18-44-00/full_images.png"
+    },
+    {
+      "name": "traffic-light-1.png",
+      "keyword": "traffic lights",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-19-42-00/full_images.png",
+      "original": "dataset/2026-04-25-19-42-00/full_images.png"
+    },
+    {
+      "name": "traffic-light-2.png",
+      "keyword": "traffic lights",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-19-49-00/full_images.png",
+      "original": "dataset/2026-04-25-19-49-00/full_images.png"
+    },
+    {
+      "name": "traffic-light-3.png",
+      "keyword": "traffic lights",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-20-37-00/full_images.png",
+      "original": "dataset/2026-04-25-20-37-00/full_images.png"
+    },
+    {
+      "name": "traffic-light-4.png",
+      "keyword": "traffic lights",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-26-00-27-00/full_images.png",
+      "original": "dataset/2026-04-26-00-27-00/full_images.png"
+    },
+    {
+      "name": "traffic-light-5.png",
+      "keyword": "traffic lights",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-26-00-36-00/full_images.png",
+      "original": "dataset/2026-04-26-00-36-00/full_images.png"
+    },
+    {
+      "name": "crosswalk-0.png",
+      "keyword": "crosswalks",
+      "url": "https://raw.githubusercontent.com/ssivakorn/reCAPTCHA-study/main/dataset/2026-04-25-20-23-00/full_images.png",
+      "original": "dataset/2026-04-25-20-23-00/full_images.png"
+    }
+  ]
+}

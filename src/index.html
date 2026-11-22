@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Just one quick check. A CAPTCHA parody that goes on forever.">
+  <title>NeverCAPTCHA — Just one quick check</title>
+  <link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+  <main class="stage" aria-label="NeverCAPTCHA parody">
+    <div class="widget">
+      <button class="checkbox-trigger" id="start" aria-haspopup="dialog" aria-label="I'm not a robot. Open image challenge.">
+        <span class="checkbox" id="checkbox" aria-hidden="true"></span>
+        <span class="checkbox-label">I'm not a robot</span>
+      </button>
+      <div class="branding">
+        <img src="assets/icons/icon.svg" width="32" height="32" alt="">
+        <span class="brand">reCAPTCHA</span>
+        <div class="legal"><button data-info="privacy">Privacy</button><span> - </span><button data-info="terms">Terms</button></div>
+      </div>
+    </div>
+  </main>
+  <div class="challenge-layer" id="layer" hidden>
+    <section class="challenge" id="challenge" role="dialog" aria-modal="true" aria-label="Verification challenge" aria-describedby="instructions">
+      <div class="image-view" id="image-view">
+        <header class="challenge-header">
+          <div class="prompt">Select all images with</div>
+          <h1 id="target">bicycles</h1>
+          <p id="instructions">Click verify once there are none left.</p>
+        </header>
+        <div class="grid" id="grid" aria-label="Image choices"></div>
+      </div>
+      <div class="audio-view" id="audio-view" hidden>
+        <h2>Enter what you hear</h2>
+        <button id="play-audio" class="audio-play"><span aria-hidden="true">▶</span> PLAY</button>
+        <p>Press PLAY and enter the numbers you hear.</p>
+        <label for="audio-answer">Your answer</label>
+        <input id="audio-answer" autocomplete="off" inputmode="numeric">
+      </div>
+      <p class="error" id="error" role="status" aria-live="polite" hidden>Please try again.</p>
+      <div class="info-box" id="info-box" hidden>
+        <strong>This is an endless CAPTCHA parody.</strong>
+        <p>Every answer fails. Every retry is another retry. There is no finish line.</p>
+        <p>No answers are collected. Not affiliated with Google.</p>
+        <p><a href="image-credits.html" target="_blank" rel="noopener">Photo credits</a></p>
+      </div>
+      <footer class="challenge-footer">
+        <div class="tools">
+          <button id="refresh" class="icon-button" aria-label="Get a new challenge" title="Get a new challenge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 8a8 8 0 1 0 1 8"/><path d="M19 3v5h-5"/></svg></button>
+          <button id="audio" class="icon-button" aria-label="Get an audio challenge" title="Get an audio challenge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 14v-3a8 8 0 0 1 16 0v3"/><path d="M4 12H2v8h5v-8H4m16 0h2v8h-5v-8h3"/></svg></button>
+          <button id="info" class="icon-button" aria-label="About this challenge" title="About this challenge" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-10v1"/></svg></button>
+        </div>
+        <button class="verify" id="verify">VERIFY</button>
+      </footer>
+    </section>
+  </div>
+  <dialog id="legal-dialog" class="legal-dialog"><h2 id="legal-title">Privacy</h2><p id="legal-text"></p><button id="close-legal" class="verify">GOT IT</button></dialog>
+  <footer class="page-footer">A CAPTCHA parody. Not affiliated with Google.</footer>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
