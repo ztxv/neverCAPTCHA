@@ -13,7 +13,9 @@ An endless CAPTCHA parody built from real photo challenges. Every answer is wron
 ![Dependencies: 0](https://img.shields.io/badge/dependencies-0-brightgreen)
 ![Vanilla JS](https://img.shields.io/badge/vanilla-JS-F7DF1E?logo=javascript&logoColor=black)
 
-[**Try it live →**](https://nevercaptcha.vercel.app) &nbsp;·&nbsp; [Run locally](#quick-start) &nbsp;·&nbsp; [Deploy your own](#deploy)
+### [**▶ Try it live at nevercaptcha.vercel.app**](https://nevercaptcha.vercel.app/)
+
+[Deploy your own](#deploy) &nbsp;·&nbsp; [Run it yourself](#run-it-yourself)
 
 </div>
 
@@ -44,25 +46,6 @@ It looks and behaves like the image challenges everyone knows: pick the bicycles
 - **Faithful details.** Selected-tile scaling, corner checkmarks, white gutters, two-second fade replacements, and the Skip/Verify button swap.
 - **Accessible.** Keyboard operable, labelled grid squares, live error announcements, and a proper modal dialog.
 - **Zero dependencies.** Plain HTML, CSS, and ES modules. No framework, no `npm install`, no API keys, no tracking, no backend.
-
-## Quick start
-
-Requires [Node.js](https://nodejs.org/) 22 or newer.
-
-```sh
-git clone https://github.com/ztxv/neverCAPTCHA.git
-cd neverCAPTCHA
-npm run dev
-```
-
-Open the localhost URL printed in the terminal. There is nothing to install.
-
-| Command | What it does |
-| --- | --- |
-| `npm run dev` | Serve `src/` and `public/` locally with no build step |
-| `npm run check` | Verify script syntax, all 139 photos, HTML/CSS asset links, and the endless-round invariant |
-| `npm run build` | Produce the deployable static site in `dist/` |
-| `npm run preview` | Serve the built `dist/` output |
 
 ## Deploy
 
@@ -104,6 +87,16 @@ docs/                   Image provenance, manifest, deployment guide
 Rounds cycle through ten challenge types. `engine.js` builds each round from the photo pools: static grids seed four targets among five distractors, split rounds slice one scene into sixteen squares, and dynamic rounds bias replacements toward new targets so the board never empties. `npm run check` replays 100 replacements per dynamic round and fails if a target ever disappears.
 
 CI runs the same checks and a production build on every push and pull request.
+
+## Run it yourself
+
+Want to fork it or tinker? You only need [Node.js](https://nodejs.org/) 22+. There is nothing to install.
+
+```sh
+git clone https://github.com/ztxv/neverCAPTCHA.git
+cd neverCAPTCHA
+npm run dev
+```
 
 ## Credits
 
